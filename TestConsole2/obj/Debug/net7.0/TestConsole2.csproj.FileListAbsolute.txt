@@ -1,0 +1,14 @@
+E:\Projects\TestConsole2\TestConsole2\bin\Debug\net7.0\TestConsole2.exe
+E:\Projects\TestConsole2\TestConsole2\bin\Debug\net7.0\TestConsole2.deps.json
+E:\Projects\TestConsole2\TestConsole2\bin\Debug\net7.0\TestConsole2.runtimeconfig.json
+E:\Projects\TestConsole2\TestConsole2\bin\Debug\net7.0\TestConsole2.dll
+E:\Projects\TestConsole2\TestConsole2\bin\Debug\net7.0\TestConsole2.pdb
+E:\Projects\TestConsole2\TestConsole2\obj\Debug\net7.0\TestConsole2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\TestConsole2\TestConsole2\obj\Debug\net7.0\TestConsole2.AssemblyInfoInputs.cache
+E:\Projects\TestConsole2\TestConsole2\obj\Debug\net7.0\TestConsole2.AssemblyInfo.cs
+E:\Projects\TestConsole2\TestConsole2\obj\Debug\net7.0\TestConsole2.csproj.CoreCompileInputs.cache
+E:\Projects\TestConsole2\TestConsole2\obj\Debug\net7.0\TestConsole2.dll
+E:\Projects\TestConsole2\TestConsole2\obj\Debug\net7.0\refint\TestConsole2.dll
+E:\Projects\TestConsole2\TestConsole2\obj\Debug\net7.0\TestConsole2.pdb
+E:\Projects\TestConsole2\TestConsole2\obj\Debug\net7.0\TestConsole2.genruntimeconfig.cache
+E:\Projects\TestConsole2\TestConsole2\obj\Debug\net7.0\ref\TestConsole2.dll
